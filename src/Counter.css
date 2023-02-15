@@ -1,0 +1,17 @@
+.counter-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .increment-button {
+    size-adjust: 500px;
+    margin-right: 40px; /* add margin to the right of the increment button */
+  }
+  
+  .decrement-button {
+    margin-left: 50px;
+    margin-top: -20px; /* add margin to the left of the decrement button */
+  }
+  
